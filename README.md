@@ -1,6 +1,8 @@
-# battlesnake-python
+# LLCentipeedle
 
-A simple [BattleSnake AI](http://battlesnake.io) written in Python. 
+LLC's bountysnake for 2017 BattleSnake
+
+Forked from the [python starter snake](https://github.com/sendwithus/battlesnake-python)
 
 Visit [battlesnake.io/readme](http://battlesnake.io/readme) for API documentation and instructions for running your AI.
 
