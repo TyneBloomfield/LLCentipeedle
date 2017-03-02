@@ -1,0 +1,10 @@
+These notes are for offline reference, this file is not needed.
+
+from pypaths import astar
+
+finder = astar.pathfinder(
+                  distance=my_distance_function,           # Calculate the absolute distance between two nodes
+                  cost=my_cost_function,                   # Calculate the heuristic cost between nodes
+                  neighbors=my_neighbors_function)         # Calculate the list of neighbors for a given node
+
+print finder( "MY NODE 1", "MY NODE 3" )
