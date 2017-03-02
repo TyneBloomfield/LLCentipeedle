@@ -149,7 +149,7 @@ def start():
         'color': '#00FF00',
         'taunt': '{} ({}x{})'.format(game_id, board_width, board_height),
         'head_url': head_url,
-        'name': 'battlesnake-python'
+        'name': 'LLCentipeedle'
     }
 
 
@@ -171,7 +171,7 @@ def move():
 
     return {
         'move': next_move,
-        'taunt': 'battlesnake-python!'
+        'taunt': 'Safety lights are for dudes!'
     }
 
 
